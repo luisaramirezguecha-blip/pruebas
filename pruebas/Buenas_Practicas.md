@@ -1,12 +1,6 @@
 # Sercotec — Centro de Negocios
-### Evaluación N°3 — Desarrollo Frontend con React
+###  — Desarrollo Frontend con React
 
-**Demo en vivo:** [eva-3-ramirez-duran-jimenez.vercel.app](https://eva-3-ramirez-duran-jimenez.vercel.app/)
-
-**Integrantes:**
-- Luisa Ramírez
-- Drayer Durán
-- Felipe Jiménez
 
 ---
 
